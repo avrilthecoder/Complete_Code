@@ -3,3 +3,5 @@
 # Package Files #
 .settings
 target
+/*.classpath
+/*.project

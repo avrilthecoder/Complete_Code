@@ -1,8 +1,0 @@
-*.class
-
-# Package Files #
-.settings
-target
-/*.classpath
-/*.project
-.gitignore
